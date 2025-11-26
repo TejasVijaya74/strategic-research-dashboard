@@ -23,7 +23,7 @@ Ensure you have **Python 3.8+** installed.
 ### 2. Installation
 Install all required dependencies:
 
-```bash
+
 pip install -r requirements.txt
 
 Interactive Visualizations: Time-series analysis and strategic quadrant matrix.
