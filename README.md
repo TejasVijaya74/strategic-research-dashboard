@@ -23,7 +23,6 @@ Ensure you have **Python 3.8+** installed.
 ### 2. Installation
 Install all required dependencies:
 
-
 pip install -r requirements.txt
 
 Interactive Visualizations: Time-series analysis and strategic quadrant matrix.
@@ -34,18 +33,21 @@ Navigate to your project directory and start the Streamlit app:
 
 streamlit run app.py
 
- Features
-1. Data Pipeline
+---
+
+## Features
+
+### 1. Data Pipeline
 
 Automatically aggregates duplicate country–year entries for accurate analysis.
 
-2. Anomaly Detection
+### 2. Anomaly Detection
 
 Uses Z-score statistical analysis to detect unusual citation patterns and outliers in research output.
 
-3. Interactive Visualizations
+### 3. Interactive Visualizations
 
-Includes:
+#### Includes:
 
 Time-series research trend analysis
 
